@@ -1,8 +1,9 @@
 ### Hi there 👋
 #### I am Max. A web developer from Taipei, Taiwan.
+======
 - 🔭 I’m currently working on front end developemnt.
 - 🌱 I’m currently learning front end frameworks like D3.js, WebGL and image processing .
-
+<br>
 
 <!--
 **MaxCSHan/MaxCSHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
