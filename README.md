@@ -1,5 +1,6 @@
 ### Hi there 👋
-# I am Max a web developer from Taipei, Taiwan.
+#### I am Max. 
+#### A web developer from Taipei, Taiwan.
 
 <!--
 **MaxCSHan/MaxCSHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
