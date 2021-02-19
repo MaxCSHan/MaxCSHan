@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### I am Max. A web developer from Taipei, Taiwan.
-Alt-H1
+
+I am Max. A web developer from Taipei, Taiwan.
 ======
 
 - 🔭 I’m currently working on front end developemnt.
