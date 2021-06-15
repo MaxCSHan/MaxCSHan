@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 I am Max. A web developer from Taipei, Taiwan.
-🗣 Mandarin/ English/ Japanese/ Un peu Français
 ------
 
-- 🔭 I build front-end web apps with Vue, Angular and React.
+- 🔭 I build front-end web apps with Vue, Angular, React and Friebase.
 - 🌱 I’m currently learning front end frameworks like D3.js, WebGL and image processing .
+- 🗣 Mandarin/ English/ Japanese/ Un peu Français
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
