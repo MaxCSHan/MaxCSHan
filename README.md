@@ -4,7 +4,6 @@ I am Max. A web developer from Taipei, Taiwan.
 ------
 
 - 🔭 I build front-end web apps with Vue, Angular, React and Friebase.
-- 🌱 I’m currently learning front end frameworks like D3.js, WebGL and image processing .
 - 🗣 Mandarin/ English/ Japanese/ Un peu Français
 <br>
 
