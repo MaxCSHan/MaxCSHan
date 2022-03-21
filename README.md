@@ -27,8 +27,9 @@ I am Max. A web developer from Taipei, Taiwan.
 
 <br>
 
-Connect with me on <a href="https://www.linkedin.com/in/sih-han-chen-max/" target="_blank"> LinkedIn </a> 
-If you're interesting in photography too. Check <a href="https://www.instagram.com/maxchen.sh/" target="_blank"> LinkedIn </a> 
+<div>Connect with me on <a href="https://www.linkedin.com/in/sih-han-chen-max/" target="_blank"> LinkedIn </a> </div>
+
+<div>If you're interesting in photography too. Check my <a href="https://www.instagram.com/maxchen.sh/" target="_blank"> Photography Account </a>  </div>
 
 <!--
 **MaxCSHan/MaxCSHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
