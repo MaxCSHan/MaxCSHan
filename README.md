@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I am Max. A web developer from Taipei, Taiwan.
+I am Max. A web developer from Taipei, Taiwan. 👨🏻‍💻
 ------
 
-- 🔭 I build web apps with Vue, Angular, React and Friebase.
+- 🔭 I build web apps with front-end frameworks ⚛️ . 
+- 📊 Data analysis with R and Python + ggplot2 & Shiny✨
 - 🗣 Mandarin/ English/ Japanese/ Un peu Français
 <br>
 
