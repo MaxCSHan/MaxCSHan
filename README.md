@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Max. A web developer from Taipei, Taiwan. 👨🏻‍💻
+I am Max. A software engineer from Taipei, Taiwan. 👨🏻‍💻
 ------
 
 - 🔭 I build web apps with front-end frameworks ⚛️ . 
