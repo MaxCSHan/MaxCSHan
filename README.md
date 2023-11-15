@@ -3,7 +3,8 @@
 I am Max. A software engineer from Taipei, Taiwan. 👨🏻‍💻
 ------
 
-- 🔭 I build web apps with frontend frameworks ⚛️ & Ruby on Rails. 
+- 🔭 I build web apps with frontend frameworks ⚛️ & Ruby on Rails.
+- 🗄️ Data Engineering with dbt and BigQuery.
 - 📊 Data analysis with R and Python + ggplot2 & Shiny✨
 - 🗣 Mandarin/ English/ Japanese/ Un peu Français
 <br>
